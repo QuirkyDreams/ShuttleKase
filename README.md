@@ -1,17 +1,19 @@
-# ShuttleKase one-page website
+# ShuttleKase GitHub Pages v2
 
-A static GitHub Pages-ready site for shuttlekase.com.
+Ready to upload to the existing ShuttleKase repository.
 
-## Files
-- `index.html` — one-page site
-- `style.css` — responsive styling
+## Upload
+Replace the current `index.html` and `style.css`, then upload the entire `assets` folder.
 
-## GitHub Pages
-Upload both files to the root of the GitHub repository used for the ShuttleKase site.
-Then enable GitHub Pages for the repository (Deploy from branch / main / root).
+Structure:
 
-The current site intentionally uses no product photography and discloses no internal
-architecture, component selections, suppliers, or unreleased specifications.
+- index.html
+- style.css
+- assets/
+  - brand-banner.jpg
+  - editor-hero.jpg
+  - concept-page.jpg
 
-Before publishing, replace the temporary "SK" brand mark with the official ShuttleKase
-logo if desired.
+GitHub Pages can continue publishing from `main` / root.
+
+The page intentionally keeps unreleased product architecture and specifications private.
